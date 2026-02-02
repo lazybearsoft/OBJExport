@@ -1,3 +1,2 @@
-# HoloLens-Samples
-## ライセンス
-MITライセンスとします
+ObjExport script at Unity/MeshDemo/Assets/OBJExport
+
